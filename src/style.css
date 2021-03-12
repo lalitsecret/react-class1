@@ -2,8 +2,8 @@
 git clone url .
 git add .
 git commit -m "message"
-git branch -M rishabh
-git push -u origin rishabh
+git branch -M newb1
+git push -u origin newb1
 
 TvL[w!7dE?d}`/fF
 
@@ -23,9 +23,26 @@ input,button,a
 	outline:0;
 	box-sizing: border-box;
 }
+header h1
+{
+	margin:0;
+}
 header
 {
 	line-height: 10vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background: black;
+	color:white;
+}
+header a
+{
+	color:silver;
+}
+header a:hover
+{
+	color:white;
 }
 .container
 {
