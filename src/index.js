@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./pagesApp";
+import App from "./pages/App";
 import {Provider} from 'react-redux'
 import store from './redux/store'
 import './style.css'
