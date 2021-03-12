@@ -2,8 +2,8 @@
 git clone url .
 git add .
 git commit -m "message"
-git branch -M newb1
-git push -u origin newb1
+git branch -M newb2
+git push -u origin newb2
 
 TvL[w!7dE?d}`/fF
 
@@ -66,7 +66,7 @@ table thead
 	color:white;
 }
 
-.form
+.login
 {
 	width: 40%;
 	padding: 2%;
@@ -75,14 +75,14 @@ table thead
 	text-align: center;
 }
 
-.form input
+.login input
 {
 	width: 100%;
 	border-bottom: 1px solid #000;
 	margin-bottom: 10px;
 }
 
-.form button
+.login button
 {
 	width: 100%;
 	background: black;
