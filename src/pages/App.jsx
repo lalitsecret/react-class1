@@ -1,6 +1,7 @@
 import React from 'react'
 import Login from './Login'
 import Admin from './admin/App'
+import {BrowserRouter,Switch,Route} from 'react-router-dom'
 function App()
 {
 	return <BrowserRouter>
