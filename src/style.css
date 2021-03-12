@@ -8,3 +8,67 @@ git push -u origin rishabh
 TvL[w!7dE?d}`/fF
 
 */
+
+body
+{
+	margin:0;
+	font-family: verdana;
+	background: slateblue;
+}
+input,button,a
+{
+	padding: 10px;
+	border:0;
+	text-decoration: none;
+	outline:0;
+	box-sizing: border-box;
+}
+header
+{
+	line-height: 10vh;
+}
+.container
+{
+	height: 80vh;
+	overflow: auto;
+}
+
+.wrapper
+{
+	padding: 0 2%;
+}
+table
+{
+	width: 100%;
+	background: white;
+	text-align: center;
+}
+table thead
+{
+	background: black;
+	color:white;
+}
+
+.form
+{
+	width: 40%;
+	padding: 2%;
+	margin:2% auto;
+	background: white;
+	text-align: center;
+}
+
+.form input
+{
+	width: 100%;
+	border-bottom: 1px solid #000;
+	margin-bottom: 10px;
+}
+
+.form button
+{
+	width: 100%;
+	background: black;
+	color:white;
+	margin-bottom: 10px;
+}
