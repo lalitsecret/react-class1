@@ -9,6 +9,7 @@ import Courses from './Courses'
 import Slots from './Slots'
 import Batch from './Batch'
 import Chart from './Chart'
+
 import Graph from './Graph'
 import Logout from './Logout'
 import Planner from './Planner'
